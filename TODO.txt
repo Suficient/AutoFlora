@@ -10,8 +10,8 @@ temperature, and all that. just keeo appending the values.
 2)[DONE BUT UNTESTED] also make sure tat empty values don't get added.
 
 For espcamphotosaver.py:
-1) Save the photos with the actual class itself in the name rather than healthy or unhealthy.
-2) the way i wrote the photo saving code is crap. it works but its crap. make it better or something idk.(optional).
+1)[DONE] Save the photos with the actual class itself in the name rather than healthy or unhealthy.
+2)[IF IT WORKS IT WORKS] the way i wrote the photo saving code is crap. it works but its crap. make it better or something idk.(optional).
 
 For Heatmap.py:
 1)[DONE BUT GUI NEEDS WORK] Integrate with your GUI. Make it so the graphs display on the app window instead of separately.
