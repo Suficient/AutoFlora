@@ -14,7 +14,7 @@ For espcamphotosaver.py:
 2) the way i wrote the photo saving code is crap. it works but its crap. make it better or something idk.(optional).
 
 For Heatmap.py:
-1) Integrate with your GUI. Make it so the graphs display on the app window instead of separately.
+1)[DONE BUT GUI NEEDS WORK] Integrate with your GUI. Make it so the graphs display on the app window instead of separately.
 
 For Cloud Integration:
 lol that's not happening in 9 hours good luck.
