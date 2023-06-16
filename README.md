@@ -13,4 +13,8 @@ This camera hosts the collected video feed on a local HTTP Server, from which im
 ## Disease Detection through an Image Classification Model
 Disease detection is carried out through a 2D COnvolutional Neural Network model trained on the PlantVillage Dataset. The model has been trained on 7,576 images of leaves spanning 38 classes, and has a real life tested accuracy of 92%. Images, when captured, are passed through this model and then labelled according to the result. This allows the farmer to asses farm health remotely with minimal effort.
 
+## Automated Irrigation and Fertilisation
+Real time sensor data is analysed and irrigation and fertilisation are carried out accordingly. The soil moisture sensors for individual node-areas are monitored and based on their readings, plants are watered in a cyclical process, leading to increased yields and dynamic, Intelligently modified watering cycles. The same is done for fertilisation, and plant nutrient content is adjusted according to the plant used through preset profiles.
+
+
 
