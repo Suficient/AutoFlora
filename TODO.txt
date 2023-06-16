@@ -1,0 +1,20 @@
+Fix Heatmap code (important)
+Fix shitty implementation of saving photos[Show what class the detected picture falls into](optional but important)
+Make GUI(extremely important)
+general spaghetti code fixes
+Implement cloud integration
+
+For seriallogger.py:
+1)[DONE] add a check to check if there is already headings, and if there is, don't print the board id
+temperature, and all that. just keeo appending the values.
+2)[DONE BUT UNTESTED] also make sure tat empty values don't get added.
+
+For espcamphotosaver.py:
+1) Save the photos with the actual class itself in the name rather than healthy or unhealthy.
+2) the way i wrote the photo saving code is crap. it works but its crap. make it better or something idk.(optional).
+
+For Heatmap.py:
+1) Integrate with your GUI. Make it so the graphs display on the app window instead of separately.
+
+For Cloud Integration:
+lol that's not happening in 9 hours good luck.
