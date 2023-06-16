@@ -1,4 +1,4 @@
-### Automated Farming project for RV hackathon
+# Automated Farming project for RV hackathon
 ## AutoFlora 
 This project Automates farming in a large scale through soil moisture/content monitoring and environment variable sensing.A mesh network is set up between any number of nodes deployed on farmland. Each Node consists of sensors, an ESP32Cam, an ESP32 microcontroller and solar panels/Battery.
 
